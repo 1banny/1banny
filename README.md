@@ -19,7 +19,7 @@
     <!-- josh -->
     <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" style="width: 350px; height: 350px; position: absolute; top: 0; left: 0; object-fit: cover;">
     <!-- heart mask -->
-    <img src="https://github.com/1banny/1banny/blob/main/heartmaskpng?raw=true" style="width: 350px; height: 350px; position: absolute; top: 0; left: 0; pointer-events: none;">
+    <img src="https://github.com/1banny/1banny/blob/main/heartmaskpng.png?raw=true" style="width: 350px; height: 350px; position: absolute; top: 0; left: 0; pointer-events: none;">
   </div>
 </div>
 
