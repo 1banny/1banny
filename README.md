@@ -22,3 +22,7 @@
     <img src="https://github.com/1banny/1banny/blob/main/heartmaskpng?raw=true" style="width: 350px; height: 350px; position: absolute; top: 0; left: 0; pointer-events: none;">
   </div>
 </div>
+
+<div align="center">
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" width="350" style="border-radius: 50%;">
+</div>
