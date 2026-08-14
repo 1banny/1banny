@@ -19,3 +19,9 @@
 <div align="left">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" width="150">
 </div>
+<div align="left">
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" width="150" style="clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);">
+</div>
+<div align="left">
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" width="150" style="border-radius: 50%;">
+</div>
