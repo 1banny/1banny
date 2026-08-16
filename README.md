@@ -29,20 +29,36 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=𝑤𝑒+𝑤𝑒𝑟𝑒+𝑡𝑜𝑜+𝑐𝑙𝑜𝑠𝑒+𝑡𝑜+𝑡ℎ𝑒+𝑠𝑡𝑎𝑟𝑠;𝐼+𝑛𝑒𝑣𝑒𝑟+𝑘𝑛𝑒𝑤+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦+𝑙𝑖𝑘𝑒+𝑦𝑜𝑢+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦;𝑓𝑎𝑙𝑙𝑖𝑛𝑔+𝑗𝑢𝑠𝑡+𝑎𝑠+ℎ𝑎𝑟𝑑;𝐼'𝑑+𝑟𝑎𝑡ℎ𝑒𝑟+𝑙𝑜𝑠𝑒+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦+𝑡ℎ𝑎𝑛+𝑢𝑠𝑒+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦;𝑚𝑎𝑦𝑏𝑒+𝑖𝑡'𝑠+𝑎+𝑏𝑙𝑒𝑠𝑠𝑖𝑛𝑔+𝑖𝑛+𝑑𝑖𝑠𝑔𝑢𝑖𝑠𝑒;𝐼+𝑠𝑒𝑒+𝑚𝑦+𝑟𝑒𝑓𝑙𝑒𝑐𝑡𝑖𝑜𝑛+𝑖𝑛+𝑦𝑜𝑢𝑟+𝑒𝑦𝑒𝑠" alt="Typing SVG">
 </div>
+
 <style>
-  @keyframes moveAround {
-    0% { transform: translate(0, 0); }
-    25% { transform: translate(300px, 0); }
-    50% { transform: translate(300px, 200px); }
-    75% { transform: translate(0, 200px); }
-    100% { transform: translate(0, 0); }
+  @keyframes fadeInOut {
+    0% { opacity: 1; }
+    25% { opacity: 0; }
+    50% { opacity: 0; }
+    75% { opacity: 1; }
+    100% { opacity: 1; }
   }
   
-  .animated-image {
-    animation: moveAround 6s linear infinite;
+  .image1 { animation: fadeInOut 4s infinite; position: absolute; top: 0; left: 0; }
+  .image2 { animation: fadeInOut 4s infinite 2s; position: absolute; bottom: 0; right: 0; }
+</style>
+
+<img src="ССЫЛКА" class="image1" width="100">
+<img src="ССЫЛКА" class="image2" width="100">
+
+<style>
+  .moving-image {
+    transition: all 2s ease-in-out;
+    position: relative;
+    left: 0;
+    top: 0;
     width: 150px;
     border-radius: 50%;
   }
+  .moving-image:hover {
+    left: 300px;
+    top: 200px;
+  }
 </style>
 
-<img src="https://github.com/1banny/1banny/blob/main/ibanny.png" class="animated-image">
+<img src="ССЫЛКА_НА_КАРТИНКУ" class="moving-image">
