@@ -32,6 +32,7 @@
 <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" width="350" style="border-radius: 50%;">
 </div>
+       
 <div align="left" style="position: relative; display: inline-block;">
   <img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
        width="120" 
