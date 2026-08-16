@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/bbbb.gif?raw=true" 
+  <img src="https://github.com/1banny/1banny/blob/main/bib.gif?raw=true" 
        width="350" 
        style="border-radius: 15px; 
               box-shadow: 0 0 30px rgba(64, 224, 208, 0.4);
