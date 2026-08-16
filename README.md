@@ -2,7 +2,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/lv_0_20260816213726.gif?raw=true" 
+  <img src="https://github.com/1banny/1banny/blob/main/[lv_0_20260816213726](https://github.com/1banny/1banny/blob/main/till.mp4).gif?raw=true" 
        width="350" 
        style="border-radius: 15px; 
               box-shadow: 0 0 30px rgba(64, 224, 208, 0.4);
