@@ -45,4 +45,4 @@
   }
 </style>
 
-<img src="ССЫЛКА_НА_КАРТИНКУ" class="animated-image">
+<img src="https://github.com/1banny/1banny/blob/main/ibanny.png" class="animated-image">
