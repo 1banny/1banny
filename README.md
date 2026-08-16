@@ -6,6 +6,7 @@
               border: 3px solid #FFB6C1;
               object-fit: cover;">
 </div>
+
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 ## <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" width="150">
