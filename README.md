@@ -1,11 +1,11 @@
 ## (｡・//ε//・｡) 
 <div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/ezgif-8256364f8eee5531.gif?raw=true" 
+<div align="center" style="background-color: #0D1017; padding: 20px; border-radius: 20px; display: inline-block;">
+  <img src="https://github.com/1banny/1banny/blob/main/lv_0_20260816195247?raw=true" 
        width="300" 
-       style="border-radius: 50%; 
-              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
-              border: 3px solid #FFB6C1;
-              object-fit: cover;">
+       style="border-radius: 15px; 
+              box-shadow: 0 0 30px rgba(13, 16, 23, 0.8);
+              display: block;">
 </div>
 </div>
 ![my photo](anime.png)
