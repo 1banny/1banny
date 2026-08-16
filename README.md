@@ -1,11 +1,10 @@
-<div align="center" style="background-color: #0D1017; padding: 15px; border-radius: 20px; display: inline-block;">
-  <img src="https://github.com/1banny/1banny/blob/main/lv_0_20260816195247?raw=true" 
-       width="350" 
-       style="border-radius: 10px; 
-              border: 2px solid #2A2F3A;
-              box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
-              display: block;">
-</div>
+<div align="center">
+  <img src="https://github.com/1banny/1banny/blob/main/lv_0_20260816195247.gif?raw=true" 
+       width="300" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
+              border: 3px solid #FFB6C1;
+              object-fit: cover;">
 </div>
 ![my photo](anime.png)
 ## <div align="center">
