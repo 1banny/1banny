@@ -41,12 +41,29 @@
               display: block;">
 </div>
 
-<div align="center">
-  <!-- gg -->
-  <div style="margin-bottom: 8px;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge" alt="Made with love">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge" alt="Made with love">
+</p>
+
+<div align="center" style="background: #0D1017; padding: 15px; border-radius: 15px; border: 1px solid #40E0D0; display: inline-block;">
+  <div style="margin-bottom: 10px;">
     <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
   </div>
-  <!-- heart -->
   <div>
     <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge" alt="Made with love">
   </div>
