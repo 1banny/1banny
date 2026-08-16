@@ -8,15 +8,6 @@
               object-fit: cover;">
 </div>
 
-<div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/ezgif-111ed72a3b765f6e.gif?raw=true" 
-       width="300" 
-       style="border-radius: 50%; 
-              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
-              border: 3px solid #FFB6C1;
-              object-fit: cover;">
-</div>
-
 <div align="right">
   <p style="color: #40E0D0; font-size: 20px; font-weight: bold; text-shadow: 0 0 10px rgba(64, 224, 208, 0.3);">
     𝓊𝓈𝓊𝒶𝓁𝓁𝓎 𝒶𝒻𝓀 𝑜𝓇 𝑜𝒻𝒻𝓉𝒶𝒷
