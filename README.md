@@ -42,5 +42,14 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpviews/?username=1banny&style=flat-square&color=40E0D0" alt="Profile Views">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=flat-square" alt="Made with love">
+      </td>
+    </tr>
+  </table>
 </div>
