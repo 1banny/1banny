@@ -1,4 +1,12 @@
 ## (｡・//ε//・｡) 
+<div align="center">
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-8256364f8eee5531?raw=true" 
+       width="300" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
+              border: 3px solid #FFB6C1;
+              object-fit: cover;">
+</div>
 ![my photo](anime.png)
 ## <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" width="150">
