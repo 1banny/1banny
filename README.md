@@ -43,8 +43,8 @@
   .image2 { animation: fadeInOut 4s infinite 2s; position: absolute; bottom: 0; right: 0; }
 </style>
 
-<img src="ССЫЛКА" class="image1" width="100">
-<img src="ССЫЛКА" class="image2" width="100">
+<img src="https://github.com/1banny/1banny/blob/main/ibanny.png" class="image1" width="100">
+<img src="https://github.com/1banny/1banny/blob/main/ibanny.png" class="image2" width="100">
 
 <style>
   .moving-image {
@@ -61,4 +61,4 @@
   }
 </style>
 
-<img src="ССЫЛКА_НА_КАРТИНКУ" class="moving-image">
+<img src="https://github.com/1banny/1banny/blob/main/ibanny.png" class="moving-image">
