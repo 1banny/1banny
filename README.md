@@ -42,14 +42,12 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpviews/?username=1banny&style=flat-square&color=40E0D0" alt="Profile Views">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=flat-square" alt="Made with love">
-      </td>
-    </tr>
-  </table>
+  <!-- gg -->
+  <div style="margin-bottom: 8px;">
+    <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
+  </div>
+  <!-- heart -->
+  <div>
+    <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge" alt="Made with love">
+  </div>
 </div>
