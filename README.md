@@ -1,10 +1,9 @@
-## (｡・//ε//・｡) 
-<div align="center">
-<div align="center" style="background-color: #0D1017; padding: 20px; border-radius: 20px; display: inline-block;">
+<div align="center" style="background-color: #0D1017; padding: 15px; border-radius: 20px; display: inline-block;">
   <img src="https://github.com/1banny/1banny/blob/main/lv_0_20260816195247?raw=true" 
-       width="300" 
-       style="border-radius: 15px; 
-              box-shadow: 0 0 30px rgba(13, 16, 23, 0.8);
+       width="350" 
+       style="border-radius: 10px; 
+              border: 2px solid #2A2F3A;
+              box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
               display: block;">
 </div>
 </div>
