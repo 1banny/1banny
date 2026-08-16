@@ -40,3 +40,7 @@
               border: 2px solid #40E0D0;
               display: block;">
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
+</div>
