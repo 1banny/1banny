@@ -18,7 +18,6 @@
 
 <div align="right">
   <p style="color: #40E0D0; font-size: 20px; font-weight: bold; text-shadow: 0 0 10px rgba(64, 224, 208, 0.3);">
-    𝓊𝓈𝓊𝒶𝓁𝓁𝓎 𝒶𝒻𝓀 𝑜𝓇 𝑜𝒻𝒻𝓉𝒶𝒷
 
 <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" width="350" style="border-radius: 50%;">
@@ -33,7 +32,6 @@
               border: 2px solid #FFB6C1;
               object-fit: cover;">
 </div>
-
 <img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
        width="300" 
        style="border-radius: 50%; 
