@@ -24,7 +24,7 @@
 </div>
        
 <div align="left" style="position: relative; display: inline-block;">
-  <img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
        width="120" 
        height="120" 
        style="border-radius: 50%; 
@@ -33,7 +33,7 @@
               object-fit: cover;">
 <div align="center" style="position: relative; display: inline-block;">
   <!-- gif (small) -->
-  <img src="https://github.com/1banny/1banny/blob/main/ЗАМЕНИТЕ_НА_ИМЯ_ФАЙЛА?raw=true" 
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
        width="80" 
        height="80" 
        style="border-radius: 50%; 
