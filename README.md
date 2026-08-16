@@ -1,12 +1,11 @@
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
-<div align="center">
-<div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
-       width="350" 
-       style="border-radius: 15px; 
-              box-shadow: 0 0 30px rgba(64, 224, 208, 0.4);
-              border: 2px solid #40E0D0;">
+       width="300" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
+              border: 3px solid #FFB6C1;
+              object-fit: cover;">
 </div>
 
 <div align="center">
@@ -37,3 +36,11 @@
 <div align="left">
 
 <div align="center">
+
+<img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
+       width="300" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
+              border: 3px solid #FFB6C1;
+              object-fit: cover;">
+</div>
