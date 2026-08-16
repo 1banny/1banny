@@ -1,7 +1,5 @@
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
-##(:3 っ)っ
-
 <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-111ed72a3b765f6e.gif?raw=true" 
        width="300" 
@@ -24,11 +22,3 @@
 <div align="left">
 
 <div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
-       width="350" 
-       height="350" 
-       style="border-radius: 50%; 
-              object-fit: cover; 
-              box-shadow: 0 0 30px rgba(255, 105, 180, 0.5);
-              border: 3px solid #FFB6C1;">
-</div>
