@@ -31,13 +31,25 @@
               box-shadow: 0 0 20px rgba(255, 105, 180, 0.4); 
               border: 2px solid #FFB6C1;
               object-fit: cover;">
-</div>
-<img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
-       width="300" 
+<div align="center" style="position: relative; display: inline-block;">
+  <!-- САМА ГИФКА (маленькая) -->
+  <img src="https://github.com/1banny/1banny/blob/main/ЗАМЕНИТЕ_НА_ИМЯ_ФАЙЛА?raw=true" 
+       width="80" 
+       height="80" 
        style="border-radius: 50%; 
-              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
-              border: 3px solid #FFB6C1;
-              object-fit: cover;">
+              object-fit: cover;
+              box-shadow: 0 0 20px rgba(64, 224, 208, 0.4);">
+  
+  <!-- heart (tirquose) -->
+  <div style="position: absolute; top: -8px; left: -8px; width: 96px; height: 96px; pointer-events: none;">
+    <svg viewBox="0 0 100 100" style="width: 100%; height: 100%;">
+      <path d="M50,88 C20,65 0,50 0,35 C0,15 20,5 35,15 L50,30 L65,15 C80,5 100,15 100,35 C100,50 80,65 50,88 Z" 
+            fill="none" 
+            stroke="#40E0D0" 
+            stroke-width="3" 
+            stroke-linejoin="round"/>
+    </svg>
+  </div>
 </div>
 
 <div align="center">
