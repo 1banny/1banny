@@ -6,6 +6,8 @@
               object-fit: cover;">
 </div>
 
+                𝘈𝘭𝘦𝘩𝘢 / 𝘈𝘭𝘦𝘹𝘢
+
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
 <div style="position: fixed; bottom: 20px; left: 20px; z-index: 100;">
