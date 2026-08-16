@@ -22,23 +22,6 @@
 <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" width="350" style="border-radius: 50%;">
 </div>
-       
-<div align="left" style="position: relative; display: inline-block;">
-  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
-       width="120" 
-       height="120" 
-       style="border-radius: 50%; 
-              box-shadow: 0 0 20px rgba(255, 105, 180, 0.4); 
-              border: 2px solid #FFB6C1;
-              object-fit: cover;">
-<div align="center" style="position: relative; display: inline-block;">
-  <!-- gif (small) -->
-  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
-       width="80" 
-       height="80" 
-       style="border-radius: 50%; 
-              object-fit: cover;
-              box-shadow: 0 0 20px rgba(64, 224, 208, 0.4);">
   
   <!-- heart (tirquose) -->
   <div style="position: absolute; top: -8px; left: -8px; width: 96px; height: 96px; pointer-events: none;">
