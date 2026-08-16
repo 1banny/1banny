@@ -32,9 +32,15 @@
 <div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" width="350" style="border-radius: 50%;">
 </div>
-<div align="left">
-
-<div align="center">
+<div align="left" style="position: relative; display: inline-block;">
+  <img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
+       width="120" 
+       height="120" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 20px rgba(255, 105, 180, 0.4); 
+              border: 2px solid #FFB6C1;
+              object-fit: cover;">
+</div>
 
 <img src="https://github.com/1banny/1banny/blob/main/till.mp4.gif?raw=true" 
        width="300" 
