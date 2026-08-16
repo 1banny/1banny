@@ -8,6 +8,14 @@
 
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
+<div style="position: fixed; bottom: 20px; left: 20px; z-index: 100;">
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" 
+       width="150" 
+       style="border-radius: 15px; 
+              box-shadow: 0 0 20px rgba(255, 105, 180, 0.3);
+              border: 2px solid #FFB6C1;">
+</div>
+
 <div align="right">
   <p style="color: #40E0D0; font-size: 20px; font-weight: bold; text-shadow: 0 0 10px rgba(64, 224, 208, 0.3);">
     𝓊𝓈𝓊𝒶𝓁𝓁𝓎 𝒶𝒻𝓀 𝑜𝓇 𝑜𝒻𝒻𝓉𝒶𝒷
