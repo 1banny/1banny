@@ -32,7 +32,7 @@
               border: 2px solid #FFB6C1;
               object-fit: cover;">
 <div align="center" style="position: relative; display: inline-block;">
-  <!-- САМА ГИФКА (маленькая) -->
+  <!-- gif (small) -->
   <img src="https://github.com/1banny/1banny/blob/main/ЗАМЕНИТЕ_НА_ИМЯ_ФАЙЛА?raw=true" 
        width="80" 
        height="80" 
