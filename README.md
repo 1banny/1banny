@@ -68,6 +68,12 @@
 </div>
 
 <div align="center">
+  <p style="color: #40E0D0; font-size: 14px; margin-bottom: 5px;">
+  </p>
+  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=40E0D0" alt="Hits">
+</div>
+
+<div align="center">
   <img src="https://github.com/1banny/1banny/blob/main/bib.gif?raw=true" 
        width="350" 
        style="border-radius: 15px; 
@@ -76,9 +82,3 @@
               display: block;">
 </div>
 
-<div align="center">
-  <p style="color: #40E0D0; font-size: 14px; margin-bottom: 5px;">
-    watch
-  </p>
-  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=40E0D0" alt="Hits">
-</div>
