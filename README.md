@@ -76,15 +76,9 @@
               display: block;">
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0" alt="Profile Views">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge" alt="woahh">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p style="color: #40E0D0; font-size: 14px; margin-bottom: 5px;">
+    watch
+  </p>
+  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=40E0D0" alt="Hits">
+</div>
