@@ -17,12 +17,26 @@
 
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
+<!-- text -->
+<div align="right">
+  <p style="font-size: 16px; color: #40E0D0; font-style: italic; max-width: 400px; margin-left: auto;">
+    𝘐 𝘫𝘶𝘴𝘵 𝘳𝘦𝘤𝘦𝘯𝘵𝘭𝘺 𝘴𝘵𝘢𝘳𝘵𝘦𝘥 𝘨𝘦𝘵𝘵𝘪𝘯𝘨 𝘪𝘯𝘵𝘰 𝘢𝘭𝘯𝘴𝘵 𝘻𝘰𝘯𝘦, 𝘴𝘰 𝘐'𝘮 𝘵𝘰𝘵𝘢𝘭𝘭𝘺 𝘥𝘰𝘸𝘯 𝘧𝘰𝘳 𝘯𝘦𝘸 𝘩𝘰𝘮𝘪𝘦𝘴 𝘰𝘳 𝘮𝘶𝘵𝘶𝘢𝘭𝘴
+  </p>
+</div>
+
 <div style="position: fixed; bottom: 20px; left: 20px; z-index: 100;">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" 
        width="150" 
        style="border-radius: 15px; 
               box-shadow: 0 0 20px rgba(255, 105, 180, 0.3);
               border: 2px solid #FFB6C1;">
+</div>
+
+<!-- text -->
+<div align="left">
+  <p style="font-size: 16px; color: #FF69B4; font-weight: bold; max-width: 400px; margin-right: auto;">
+    𝙸 𝚏𝚒𝚗𝚒𝚜𝚑𝚎𝚍 𝚝𝚠𝚘 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚒𝚗 𝚝𝚑𝚎 𝚙𝚊𝚜𝚝, 𝚋𝚞𝚝 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚗𝚘𝚠, 𝚕𝚘𝚕.
+  </p>
 </div>
 
 <div align="right">
