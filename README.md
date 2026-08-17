@@ -39,18 +39,3 @@
               box-shadow: 0 0 30px rgba(64, 224, 208, 0.4);
               border: 2px solid #40E0D0;
               display: block;">
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpviews/?username=1banny&style=for-the-badge&color=40E0D0">
-  &emsp;
-  <img src="https://img.shields.io/badge/💕-made_with_love-FF69B4?style=for-the-badge">
-</p>
