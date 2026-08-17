@@ -9,9 +9,9 @@
 <!-- text -->
 <div align="center">
   <p style="font-size: 18px; color: #FFB6C1; font-style: italic;">
-    𝘩𝘪 ! 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘢𝘭𝘭 𝘮𝘦 𝘈𝘭𝘦𝘩𝘢 𝘰𝘳 𝘈𝘭𝘦𝘹𝘢<br>
+    𝘩𝘪 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘢𝘭𝘭 𝘮𝘦 𝘈𝘭𝘦𝘩𝘢 𝘰𝘳 𝘈𝘭𝘦𝘹𝘢<br>
     𝘮𝘰𝘴𝘵𝘭𝘺 𝘮𝘢𝘬𝘪𝘯 𝘴𝘬𝘪𝘯𝘴 𝘰𝘳 𝘰𝘧𝘧𝘵𝘢𝘣 𝘴𝘰 𝘸2𝘪<br>
-    ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
+    
   </p>
 </div>
 
