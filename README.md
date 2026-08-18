@@ -81,17 +81,3 @@
               border: 2px solid #40E0D0;
               display: block;">
 </div>
-
-<div align="center">
-  <p style="color: #40E0D0; font-size: 18px; margin-bottom: 10px;">
-    ppp
-  </p>
-  <iframe src="https://bunbunbunbun.atabook.org/" 
-          width="80%" 
-          height="500px" 
-          style="border: none; border-radius: 20px; box-shadow: 0 0 30px rgba(64, 224, 208, 0.3); border: 2px solid #40E0D0;">
-  </iframe>
-  <p style="color: #FFB6C1; font-size: 12px; margin-top: 8px;">
-    www
-  </p>
-</div>
