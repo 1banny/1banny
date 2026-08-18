@@ -18,7 +18,7 @@
 <!-- text -->
 <div align="right">
   <p style="font-size: 16px; color: #40E0D0; font-style: italic; max-width: 400px; margin-left: auto;">
- v҉̩̞͔̫̪͊̾i҈̰̠̦̒̈̀s̴̜͔̦̞̣̋͊͑̀i̵̮̩̖͍͎̔̒t̴͇͓̩̟̔̎̐̋͂ m̷͚͔͓̳̄̒̈̒ỹ̸͎̲̖̿̊͗ s҈͕͍̠̑̈̄ť̷͎͇͊̆͆ͅr̵͎̯̤̎̍̒à̶̳̰͍̫͈̓ẁ̶̩̮͙̑ͅp̸̳̱̮̘̑͂͐͋a̴͎̗̰͍̗̋͊́̆͗g̷̖͉̳̀̈̓e҉̯̣͇́̎ !̶̲͖͔̳͊͊̐
+ v҉̩̞͔̫̪͊̾i҈̰̠̦̒̈̀s̴̜͔̦̞̣̋͊͑̀i̵̮̩̖͍͎̔̒t̴͇͓̩̟̔̎̐̋͂ m̷͚͔͓̳̄̒̈̒ỹ̸͎̲̖̿̊͗ s҈͕͍̠̑̈̄ť̷͎͇͊̆͆ͅr̵͎̯̤̎̍̒à̶̳̰͍̫͈̓ẁ̶̩̮͙̑ͅp̸̳̱̮̘̑͂͐͋a̴͎̗̰͍̗̋͊́̆͗g̷̖͉̳̀̈̓e҉̯̣͇́̎ !̶͊
   </p>
 </div>
 
@@ -30,23 +30,8 @@
               border: 2px solid #FFB6C1;">
 </div>
 
-<!-- text -->
-<div align="right">
-  <p style="font-size: 16px; color: #40E0D0; font-style: italic; max-width: 400px; margin-left: auto;">
-  (:3 っ)っ
-
-  </p>
-</div>
-
 <div align="right">
   <p style="color: #40E0D0; font-size: 20px; font-weight: bold; text-shadow: 0 0 10px rgba(64, 224, 208, 0.3);">
-
-  <!-- text -->
-<div align="left">
-  <p style="font-size: 16px; color: #FF69B4; font-weight: bold; max-width: 400px; margin-right: auto;">
-:3
-  </p>
-</div>
 
   <!-- gif (small) -->
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
@@ -56,13 +41,13 @@
               object-fit: cover;
               box-shadow: 0 0 20px rgba(64, 224, 208, 0.4);">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=𝑤𝑒+𝑤𝑒𝑟𝑒+𝑡𝑜𝑜+𝑐𝑙𝑜𝑠𝑒+𝑡𝑜+𝑡ℎ𝑒+𝑠𝑡𝑎𝑟𝑠;𝐼+𝑛𝑒𝑣𝑒𝑟+𝑘𝑛𝑒𝑤+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦+𝑙𝑖𝑘𝑒+𝑦𝑜𝑢+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦;𝑓𝑎𝑙𝑙𝑖𝑛𝑔+𝑗𝑢𝑠𝑡+𝑎𝑠+ℎ𝑎𝑟𝑑;𝐼'𝑑+𝑟𝑎𝑡ℎ𝑒𝑟+𝑙𝑜𝑠𝑒+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦+𝑡ℎ𝑎𝑛+𝑢𝑠𝑒+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦;𝑚𝑎𝑦𝑏𝑒+𝑖𝑡'𝑠+𝑎+𝑏𝑙𝑒𝑠𝑠𝑖𝑛𝑔+𝑖𝑛+𝑑𝑖𝑠𝑔𝑢𝑖𝑠𝑒;𝐼+𝑠𝑒𝑒+𝑚𝑦+𝑟𝑒𝑓𝑙𝑒𝑐𝑡𝑖𝑜𝑛+𝑖𝑛+𝑦𝑜𝑢𝑟+𝑒𝑦𝑒𝑠" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D5A2D2&center=true&vCenter=true&width=435&lines=𝑤𝑒+𝑤𝑒𝑟𝑒+𝑡𝑜𝑜+𝑐𝑙𝑜𝑠𝑒+𝑡𝑜+𝑡ℎ𝑒+𝑠𝑡𝑎𝑟𝑠;𝐼+𝑛𝑒𝑣𝑒𝑟+𝑘𝑛𝑒𝑤+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦+𝑙𝑖𝑘𝑒+𝑦𝑜𝑢+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦;𝑓𝑎𝑙𝑙𝑖𝑛𝑔+𝑗𝑢𝑠𝑡+𝑎𝑠+ℎ𝑎𝑟𝑑;𝐼'𝑑+𝑟𝑎𝑡ℎ𝑒𝑟+𝑙𝑜𝑠𝑒+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦+𝑡ℎ𝑎𝑛+𝑢𝑠𝑒+𝑠𝑜𝑚𝑒𝑏𝑜𝑑𝑦;𝑚𝑎𝑦𝑏𝑒+𝑖𝑡'𝑠+𝑎+𝑏𝑙𝑒𝑠𝑠𝑖𝑛𝑔+𝑖𝑛+𝑑𝑖𝑠𝑔𝑢𝑖𝑠𝑒;𝐼+𝑠𝑒𝑒+𝑚𝑦+𝑟𝑒𝑓𝑙𝑒𝑐𝑡𝑖𝑜𝑛+𝑖𝑛+𝑦𝑜𝑢𝑟+𝑒𝑦𝑒𝑠" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <p style="color: #40E0D0; font-size: 14px; margin-bottom: 5px;">
+  <p style="color: #D5A2D2; font-size: 14px; margin-bottom: 5px;">
   </p>
-  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=40E0D0" alt="Hits">
+  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=F9F0F9" alt="Hits">
 </div> 
 
 <img src="https://github.com/1banny/1banny/blob/main/ezgif-70c62530bd4386b2.gif?raw=true" 
