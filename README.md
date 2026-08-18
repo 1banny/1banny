@@ -47,7 +47,7 @@
 <div align="center">
   <p style="color: #F9F0F9; font-size: 14px; margin-bottom: 5px;">
   </p>
-  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=D5A2D2" alt="Hits">
+  <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=F9F0F9" alt="Hits">
 </div> 
 
 <img src="https://github.com/1banny/1banny/blob/main/ezgif-70c62530bd4386b2.gif?raw=true" 
