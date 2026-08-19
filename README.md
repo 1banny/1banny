@@ -16,12 +16,17 @@
 
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
-<!-- text -->
 <div align="right">
-  <p style="font-size: 16px; color: #40E0D0; font-style: italic; max-width: 400px; margin-left: auto;">
- v҉̩̞͔̫̪͊̾i҈̰̠̦̒̈̀s̴̜͔̦̞̣̋͊͑̀i̵̮̩̖͍͎̔̒t̴͇͓̩̟̔̎̐̋͂ m̷͚͔͓̳̄̒̈̒ỹ̸͎̲̖̿̊͗ s҈͕͍̠̑̈̄ť̷͎͇͊̆͆ͅr̵͎̯̤̎̍̒à̶̳̰͍̫͈̓ẁ̶̩̮͙̑ͅp̸̳̱̮̘̑͂͐͋a̴͎̗̰͍̗̋͊́̆͗g̷̖͉̳̀̈̓e҉̯̣͇́̎ !̶͊
-  </p>
-</div>
+  <p style="color: #40E0D0; font-size: 20px; font-weight: bold; text-shadow: 0 0 10px rgba(64, 224, 208, 0.3);">
+
+  <!-- gif (small) -->
+  <img src="https://github.com/1banny/1banny/blob/main/ezgif-636013edfa5e8a74.gif?raw=true" 
+       width="80" 
+       height="80" 
+       style="border-radius: 50%; 
+              object-fit: cover;
+              box-shadow: 0 0 20px rgba(64, 224, 208, 0.4);">
+<div align="center">
 
 <div style="position: fixed; bottom: 20px; left: 20px; z-index: 100;">
   <img src="https://github.com/1banny/1banny/blob/main/ezgif-817ebfe25b8b024d.gif?raw=true" 
