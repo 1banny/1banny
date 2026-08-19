@@ -1,4 +1,7 @@
-<video src="https://github.com/1banny/1banny/blob/main/ivan.mp4?raw=true" width="300" controls></video>
+<img <a href="https://github.com/1banny/1banny/blob/main/ivan.mp4?raw=true" download>
+  🎬 Vid
+</a>
+       width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
               border: 3px solid #FFB6C1;
