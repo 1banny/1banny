@@ -1,6 +1,4 @@
-<img <a href="https://github.com/1banny/1banny/blob/main/ivan.mp4?raw=true" download>
-  🎬 Vid
-</a>
+<img <a href="https://github.com/1banny/1banny/blob/main/ezgif-8cbfcc34dc321d9d.gif
        width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
