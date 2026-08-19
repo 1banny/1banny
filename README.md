@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/1banny/1banny/raw/main/GIF_20260819_211420_900.gif" 
+  <img src="https://github.com/1banny/1banny/blob/main/1aeff5ec4ad04d93b63a6ba11d1dfe7a.gif 
        width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
@@ -58,7 +58,14 @@
               object-fit: cover;">
 </div>
 <div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/1aeff5ec4ad04d93b63a6ba11d1dfe7a.gif" 
+  <img src="<div align="center">
+  <img src="https://github.com/1banny/1banny/raw/main/GIF_20260819_211521_184.gif" 
+       width="300" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
+              border: 3px solid #FFB6C1;
+              object-fit: cover;">
+</div>" 
        width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
