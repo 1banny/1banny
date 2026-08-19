@@ -1,4 +1,4 @@
-<img src="https://github.com/1banny/1banny/blob/main/ezgif-70c62530bd4386b2.gif?raw=true" 
+<img src="https://github.com/1banny/1banny/blob/main/https://github.com/1banny/1banny/blob/main/ivan.mp4.gif?raw=true" 
        width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
