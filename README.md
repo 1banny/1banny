@@ -1,4 +1,4 @@
-<img <a href="https://github.com/1banny/1banny/blob/main/https://github.com/1banny/1banny/blob/main/GIF_20260819_211420_900.gif
+<img src="https://github.com/1banny/1banny/blob/main/https://github.com/1banny/1banny/blob/main/GIF_20260819_211420_900.gif?raw=true" 
        width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
