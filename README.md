@@ -56,12 +56,11 @@
               border: 3px solid #FFB6C1;
               object-fit: cover;">
 </div>
-
 <div align="center">
-  <img src="https://github.com/1banny/1banny/blob/main/bib.gif?raw=true" 
-       width="350" 
-       style="border-radius: 15px; 
-              box-shadow: 0 0 30px rgba(64, 224, 208, 0.4);
-              border: 2px solid #40E0D0;
-              display: block;">
+  <img src="https://github.com/1banny/1banny/raw/main/GIF_20260819_211521_184.gif" 
+       width="300" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
+              border: 3px solid #FFB6C1;
+              object-fit: cover;">
 </div>
