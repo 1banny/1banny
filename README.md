@@ -49,7 +49,8 @@
   <img src="https://hits.sh/github.com/1banny/1banny.svg?style=for-the-badge&label=(%E2%95%AC%E2%97%A3_%E2%97%A2)&labelColor=F9F0F9&color=D5A2D2" alt="Hits">
 </div>
 
-<img src="https://github.com/1banny/1banny/blob/main/ezgif-70c62530bd4386b2.gif?raw=true" 
+<div align="center">
+  <img src="https://github.com/1banny/1banny/raw/main/GIF_20260819_211420_900.gif" 
        width="300" 
        style="border-radius: 50%; 
               box-shadow: 0 0 40px rgba(255, 105, 180, 0.5); 
