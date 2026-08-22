@@ -7,13 +7,6 @@
               object-fit: cover;">
 </div>
 
-<!-- text -->
-<div align="center">
-  <p style="font-size: 18px; color: #FFB6C1; font-style: italic;">
-    𝘩𝘪 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘢𝘭𝘭 𝘮𝘦 𝘈𝘭𝘦𝘩𝘢 𝘰𝘳 𝘈𝘭𝘦𝘹𝘢<br>
-  </p>
-</div>
-
 ![my photo](https://github.com/1banny/1banny/blob/main/anime.png)
 
 <div align="right">
